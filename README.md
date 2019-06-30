@@ -1,2 +1,2 @@
 # IT-Bootcamp
-Projekti sa Java kursa  IT Bootcamp-a  april - jul 2019
+Projekti sa Java kursa  IT Bootcamp  april - jul 2019
